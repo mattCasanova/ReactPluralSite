@@ -1,4 +1,7 @@
-https://www.typescriptlang.org/docs/handbook/react-&-webpack.html
+/**
+ * https://www.typescriptlang.org/docs/handbook/react-&-webpack.html
+ * 
+ */
 
 import * as React from "react";
 import * as ReactDOM from "react-dom";
