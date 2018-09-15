@@ -1,3 +1,6 @@
+/**
+ * https://blog.logrocket.com/how-why-a-guide-to-using-typescript-with-react-fffb76c61614
+ */
 import * as React from "react";
 import * as ReactDOM from "react-dom";
 
